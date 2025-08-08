@@ -16,7 +16,12 @@
 
 ---
 
+## 📌 Current Activities
 
+- 🌱 Exploring **Next.js** and integrating it into real-world applications  
+- 💻 Developing a **CMS project of a school** using **PostgreSQL**, **Prisma**, and **Next.js**  
+- 📖 Expanding knowledge in **full-stack development** and database design
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -28,6 +33,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 ---
 
