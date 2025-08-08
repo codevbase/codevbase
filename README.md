@@ -1,7 +1,21 @@
-# Hi there, I'm Ahsan Habib 👋
+![Banner](linkedin_cover.png)
+
+# Hi there, I'm Md Ahasan Habib 👋
 
 ### 👨‍💻 Passionate MERN Stack Front-End Developer  
 **Turning ideas into interactive digital experiences**
+
+
+## 👨‍💻 About Me
+
+💼 **MERN Stack Front-End Developer**  
+🎯 Specializing in building **responsive** and **high-performance** web applications  
+💡 Skilled in **React.js**, **JavaScript (ES6+)**, and **Tailwind CSS**  
+🚀 Focused on **clean code**, **scalability**, and **performance optimization**  
+📚 Committed to **continuous learning** and **team collaboration**  
+
+---
+
 
 ---
 
